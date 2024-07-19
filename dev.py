@@ -1,1 +1,1 @@
-print("dev")
+print("development")
